@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CN-OT/PDS%202.0%20Sandbox/_apis/build/status/xiong-wang21.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/CN-OT/PDS%202.0%20Sandbox/_build/latest?definitionId=132&branchName=master)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
